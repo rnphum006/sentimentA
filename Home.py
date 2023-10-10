@@ -13,7 +13,7 @@ def load_lottieurl(url: str):
 
 
 st.header("การวิเคราะห์ความรู้สึกภาษาไทย")
-st.subheader("Kairung Hengpraprohm")
+st.subheader("Ronnapoom Ponpai DS NPRU")
 
 col1, col2 = st.columns(2)
 with col1:
